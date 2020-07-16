@@ -6,7 +6,7 @@ permalink: /code_of_conduct/
 
 ## The Casal2 Code of Conduct
 
-The Casal2 Code of Conduct is based on the [Open Source Contributor Code of Conduct](https://casal2.github.io/cc_code_of_conduct)
+The Casal2 Code of Conduct is based on the [Open Source Contributor Code of Conduct](https://casal2.github.io/cc_code_of_conduct).
 
 ## In summary:
 
