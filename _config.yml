@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   NIWA Casal2 User and Developer Support
 baseurl: ""
 url: "https://casal2.github.io"
+image: Casal2.png
 
 include: [
 #  "_downloads",
