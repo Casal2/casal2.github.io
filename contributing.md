@@ -1,3 +1,9 @@
+---
+layout: home
+title: Casal2 Contributor Guidelines
+permalink: /contributing/
+---
+
 # Casal2 Contributor Guidelines
 
 ## General guidelines
