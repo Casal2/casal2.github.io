@@ -15,9 +15,9 @@ include: [
 #  "_static"
 ]
 
-sidebar:
-  - title: "Casal2"
-    text: "NIWA's Next Generation Integrated Assessment Tool"
-    image: Casal2.png
-  - title: "NIWA"
-    image: NIWA_CMYK_Vert.png
+#sidebar:
+#  - title: "Casal2"
+#    text: "NIWA's Next Generation Integrated Assessment Tool"
+#    image: Casal2.png
+#  - title: "NIWA"
+#    image: NIWA_CMYK_Vert.png
