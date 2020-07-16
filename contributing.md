@@ -6,17 +6,15 @@ permalink: /contributing/
 
 # Casal2 Contributor Guidelines
 
-## General guidelines
+## Start with the documents, create GitHub issue(s), then work in git branches
 
-**Start with the documents, create GitHub issue(s), then work in git branches**
-
-All work in the NIWA Casal2 GitHub repository will be coordinated and tracked using GitHub issues. Supporting documents can be attached to issues. The changes will be managed in branches and integrated in merge requests.
+All work in the NIWA Casal2 GitHub repository will be coordinated by the Casal2 Development Team and tracked using GitHub issues. Supporting documents can be attached to these issues. The changes will be managed in branches and integrated in pull requests.
 
 The required documents include:
 
-- Technical description or software design document, including equations and references;
-- Detailed test plan for validation and verification, including test cases; and
-- Any revisions to the Casal2 User Manual
+- A technical description or software design document, including equations and references;
+- A detailed test plan for validation and verification, including test case input and output files; and
+- Any revisions to the Casal2 User Manual and/or other project documentation
 
 Please provide documents in LaTeX format.
 
@@ -24,11 +22,11 @@ All contributions to the Casal2 project are made via Pull Requests against the *
 
 ### Reporting bugs
 
-Report bugs by opening an issue in the GitHub repository.
+Report bugs by opening an issue in the [GitHub repository](https://github.com/NIWAFisheriesModelling/Casal2/issues).
 
 For source code bugs: provide a description of the bug(s), the filename(s) for the code that has the bug(s), and the initial steps that will be taken to fix the bug(s).
 
-For executable bugs: provide the version of the software affected by the bug, the operating system type and version, the input files necessary to reproduce the bug, how the expected result differs from the actual result, whether the released version of the executable was used or if the executable was built from source (then provide the compiler and version, and information on other build tools used), and any other relevant information.
+For executable bugs: provide the version of the software affected by the bug, the operating system type and version, the input files necessary to reproduce the bug, how the expected result differs from the actual result, whether the released version of the executable was used or if the executable was built from source (then provide the compiler and version, and information on the other build tools used), and any other relevant information.
 
 ### Requesting enhancements
 
@@ -67,9 +65,9 @@ The first part of each line of the commit message should indicate the type of mo
 
 NOTE: commits pertaining to a specific issue should include `Ref #[issue number]` in the commit message
 
-### Code review
+## Code review
 
-The Casal2 project uses the Google C++ Style Guide and the Google R Style Guide, which is a fork of the Tidyverse Style Guide. Other Google Style Guides are available here.
+The Casal2 project uses the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) and the [Google R Style Guide](https://google.github.io/styleguide/Rguide.html), which is a fork of the [Tidyverse Style Guide](https://style.tidyverse.org/). Other Google Style Guides are available [here](https://google.github.io/styleguide/).
 
 The code review will include:
 
