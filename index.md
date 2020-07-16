@@ -4,7 +4,7 @@ Casal2 is NIWA’s open-source integrated assessment tool for modelling the popu
 
 ### Code of Conduct
 
-The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct.md)
+The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct)
 
 ### The Casal2 User and Developer Support Forums
 
@@ -12,7 +12,7 @@ The Casal2 user and developer support forums are available on the [Casal2 Discou
 
 ### The Casal2 Contributor Guidelines
 
-The [Casal2 contributor guidelines](https://casal2.github.io/contributing.md)
+The [Casal2 contributor guidelines](https://casal2.github.io/contributing)
 
 ## About Casal2
 
