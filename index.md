@@ -2,15 +2,19 @@
 
 Casal2 is NIWA’s open-source integrated assessment tool for modelling the population dynamics of marine species, including ﬁshery stock assessments. Casal2 expands functionality and increases maintainability relative to its predecessor, CASAL. Casal2 can be used for quantitative assessments of marine populations, including ﬁsh, invertebrates, marine mammals and seabirds.
 
-### Code of Conduct
+### Casal2 Code of Conduct
 
 The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct)
 
-### The Casal2 User and Developer Support Forums
+### Casal2 releases for Windows and Linux
+
+Casal2 release packages are available in [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
+
+### Casal2 User and Developer Support Forums
 
 The Casal2 user and developer support forums are available on the [Casal2 Discourse site](https://casal2.discourse.group)
 
-### The Casal2 Contributor Guidelines
+### Casal2 Contributor Guidelines
 
 The [Casal2 contributor guidelines](https://casal2.github.io/contributing)
 
