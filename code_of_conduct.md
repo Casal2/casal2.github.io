@@ -1,4 +1,10 @@
 
+---
+#layout: home
+title: Casal2 Code of Conduct
+permalink: /code_of_conduct/
+---
+
 ## The Casal2 Code of Conduct
 
 The Casal2 Code of Conduct is based on the [Open Source Contributor Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct)

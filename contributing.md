@@ -1,5 +1,5 @@
 ---
-layout: home
+#layout: home
 title: Casal2 Contributor Guidelines
 permalink: /contributing/
 ---
