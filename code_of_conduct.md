@@ -1,4 +1,3 @@
-
 ---
 #layout: home
 title: Casal2 Code of Conduct
