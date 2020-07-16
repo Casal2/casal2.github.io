@@ -1,6 +1,5 @@
 
 ---
-layout: default
 title: Casal2 Code of Conduct
 permalink: /code_of_conduct/
 ---
