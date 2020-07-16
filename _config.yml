@@ -4,7 +4,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   NIWA Casal2 User and Developer Support
 baseurl: ""
 url: "https://casal2.github.io"
-image: https://github.com/Casal2/casal2.github.io/blob/master/NIWA_CMYK_Vert.png
+
+sidebar:
+  - title: "Casal2"
+    text: "NIWA's Next Generation Integrated Assessment Tool"
+    image: https://github.com/Casal2/casal2.github.io/blob/master/NIWA_CMYK_Vert.png
 
 theme: jekyll-theme-minimal
 
