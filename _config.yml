@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 title: Casal2
 email: casal2@niwa.co.nz
 description: >- # this means to ignore newlines until "baseurl:"
@@ -8,7 +10,8 @@ url: "https://casal2.github.io"
 sidebar:
   - title: "Casal2"
     text: "NIWA's Next Generation Integrated Assessment Tool"
+    image: Casal2.png
+  - title: "NIWA"
     image: NIWA_CMYK_Vert.png
 
-theme: jekyll-theme-minimal
 
