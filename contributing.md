@@ -42,7 +42,7 @@ Include details about the contracted milestones, objectives, and deliverables th
 
 ### Order of activities
 
-1. Work with the Casal2 Development Teamto create a GitHub issue with detailed task information and narrow scope
+1. Work with the Casal2 Development Team to create a GitHub issue with detailed task information and narrow scope
 
 2. Have the Casal2 Development Team create a branch to work on the issue in the format `<topic area>_YYYYMM`, e.g., `retention_unit_tests_201911`
 
