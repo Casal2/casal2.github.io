@@ -3,27 +3,29 @@ layout: default
 title: Casal2
 ---
 
-## Information for Casal2 Users and Developers
+# Information for Casal2 Users and Developers
 
-Casal2 is NIWA's open-source integrated assessment tool for modelling the population dynamics of marine species, including fishery stock assessments. Casal2 expands functionality and increases maintainability relative to its predecessor, CASAL. Casal2 can be used for quantitative assessments of marine populations, including fish, invertebrates, marine mammals, and seabirds.
+Casal2 is NIWA's next generation open-source integrated assessment tool for modelling the population dynamics of marine species, including fishery stock assessments. Casal2 expands functionality and increases maintainability relative to its predecessor, CASAL. Casal2 can be used for quantitative assessments of marine populations, including fish, invertebrates, marine mammals, and seabirds.
 
-### Casal2 Code of Conduct
+The NIWA Casal2 Development Team welcomes your contributions and feedback.  Information about the use and development of Casal2 is available in the following locations.
+
+## Casal2 Code of Conduct
 
 The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct)
 
-### Casal2 releases for Windows and Linux
+## Casal2 releases for Windows and Linux
 
-Casal2 release packages are available in [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
+Casal2 release packages are available in the [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
 
-### Casal2 User and Developer Support Forums
+## Casal2 User and Developer Support Forums
 
 The Casal2 user and developer support forums are available on the [Casal2 Discourse site](https://casal2.discourse.group).
 
-### Casal2 Contributor Guidelines
+## Casal2 Contributor Guidelines
 
 The [Casal2 contributor guidelines](https://casal2.github.io/contributing)
 
-## About Casal2
+### About Casal2
 
 The Casal2 software implements a generalised age-structured population model that allows for a great deal of choice in specifying the population dynamics, parameter estimation, and model outputs. Casal2 is designed for flexibility. It can implement an age-structured model for a single population or multiple populations using user-defined categories such as area, sex, and maturity. These structural elements are generic and not predefined, and are easily constructed. Casal2 models can be used for a single population with a single anthropogenic event (in a fish population model this would be a single fishery), or for multiple species and populations, areas, and/or anthropogenic or exploitation methods, and including predator-prey interactions.
 
