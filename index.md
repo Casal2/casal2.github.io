@@ -17,7 +17,7 @@ Casal2 release packages are available in [Casal2 GitHub repository](https://gith
 
 ### Casal2 User and Developer Support Forums
 
-The Casal2 user and developer support forums are available on the [Casal2 Discourse site](https://casal2.discourse.group)
+The Casal2 user and developer support forums are available on the [Casal2 Discourse site](https://casal2.discourse.group).
 
 ### Casal2 Contributor Guidelines
 
