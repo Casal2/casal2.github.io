@@ -8,7 +8,7 @@ url: "https://casal2.github.io"
 sidebar:
   - title: "Casal2"
     text: "NIWA's Next Generation Integrated Assessment Tool"
-    image: https://github.com/Casal2/casal2.github.io/blob/master/NIWA_CMYK_Vert.png
+    image: NIWA_CMYK_Vert.png
 
 theme: jekyll-theme-minimal
 

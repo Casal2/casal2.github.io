@@ -26,9 +26,9 @@ All contributions to the Casal2 project are made via Pull Requests against the *
 
 Report bugs by opening an issue in the GitHub repository.
 
-For source code bugs: provide a description of the bug(s), the ﬁlename(s) for the code that has the bug(s), and the initial steps that will be taken to ﬁx the bug(s).
+For source code bugs: provide a description of the bug(s), the ?lename(s) for the code that has the bug(s), and the initial steps that will be taken to fix the bug(s).
 
-For executable bugs: provide the version of the software affected by the bug, the operating system type and version, the input ﬁles necessary to reproduce the bug, how the expected result differs from the actual result, whether the released version of the executable was used or if the executable was built from source (then provide the compiler and version, and information on other build tools used), and any other relevant information.
+For executable bugs: provide the version of the software affected by the bug, the operating system type and version, the input ?les necessary to reproduce the bug, how the expected result differs from the actual result, whether the released version of the executable was used or if the executable was built from source (then provide the compiler and version, and information on other build tools used), and any other relevant information.
 
 ### Requesting enhancements
 
@@ -48,7 +48,7 @@ Include details about the contracted milestones, objectives, and deliverables th
 
 3. Review the issue and add additional information about the work to be performed
 
-4. Comment regularly in the issue as work progresses about what decisions were made and why, problems or questions that arise and proposed solutions, requests for clariﬁcation, etc.
+4. Comment regularly in the issue as work progresses about what decisions were made and why, problems or questions that arise and proposed solutions, requests for clari?cation, etc.
 
 5. Create a pull request after completing the changes and passing the unit and system tests locally
 
@@ -58,14 +58,14 @@ Include details about the contracted milestones, objectives, and deliverables th
 
 ### git commit messages
 
-The ﬁrst part of each line of the commit message should indicate the type of modiﬁcation:
+The ?rst part of each line of the commit message should indicate the type of modi?cation:
 
-- ADD - Added a new ﬁle
-- CHG - Modiﬁed an existing ﬁle
-- DEL - Removed an existing ﬁle
+- ADD - Added a new file
+- CHG - Modified an existing file
+- DEL - Removed an existing file
 - FIX - Fixed something
 
-NOTE: commits pertaining to a speciﬁc issue should include `Ref #[issue number]` in the commit message
+NOTE: commits pertaining to a specific issue should include `Ref #[issue number]` in the commit message
 
 ### Code review
 
@@ -77,7 +77,7 @@ The code review will include:
 - a check that `doBuild release`, `doBuild release [optimizer]`, `doBuild rlibrary`, and `doBuild documentation` all complete successfully;
 - a check that `doBuild test`, `doBuild modelrunner`, and system tests complete successfully;
 - a review of any changes to the Casal2 User Manual and/or other project documentation;
-- a review of any new or revisions to existing unit tests and their supporting information (e.g., the R or Python 3 ﬁles used to produce the values in the unit test(s), which should also be committed to the git repository); also discuss test coverage and whether additional unit tests should be added;
+- a review of any new or revisions to existing unit tests and their supporting information (e.g., the R or Python 3 ?les used to produce the values in the unit test(s), which should also be committed to the git repository); also discuss test coverage and whether additional unit tests should be added;
 - a review of the doxygen comments in the C++ or roxygen comments in the R source code;
 - a review of the source code (C++, R, Python, etc.); and
 - a review of the commit message(s)
