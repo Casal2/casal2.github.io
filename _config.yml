@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 
-title: Casal2
+#title: Casal2
 email: casal2@niwa.co.nz
-description: >- # this means to ignore newlines until "baseurl:"
-  NIWA Casal2 User and Developer Support
+#description: >- # this means to ignore newlines until "baseurl:"
+#  NIWA Casal2 User and Developer Support
 baseurl: ""
 url: "https://casal2.github.io"
 
