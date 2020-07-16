@@ -16,7 +16,7 @@ The Casal2 Code of Conduct is based on the [Open Source Contributor Code of Cond
 - Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom one right answer.
 - Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, experiment locally and see how it works.
 - We will exclude you from interaction if you insult, demean, or harass anyone. That is not welcome behaviour. In particular, we do not tolerate behaviour that excludes people in socially marginalised groups.
-- Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by another contributor, please contact the Project Manager or Project Lead immediately. 
+- Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by another contributor, please contact the [Casal2 Project Manager or Project Lead](https://niwa.co.nz/people/kath-large) immediately. 
 - Likewise any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome.
 
 
