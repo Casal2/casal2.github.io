@@ -14,5 +14,7 @@ All of the Test Case Casal2 models were compared with their CASAL counterparts f
 
 ### Known issues
 
-This release has efficiency issues, as the focus has been on testing and validating functionality.
+This executables in this release have known efficiency issues and require a review with respect to code optimisation and memory usage. The focus for this release was on testing and validating functionality.
+
+The documentation in this release is not complete.
 
