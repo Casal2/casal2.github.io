@@ -15,7 +15,11 @@ The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct)
 
 ## Casal2 releases for Windows and Linux
 
-Casal2 release packages are available in the [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
+The Casal2 installation packages are available in the [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
+
+The [Casal2 release notes](https://casal2.github.io/release_notes)
+
+The [Casal2 project status](https://casal2.github.io/project_status)
 
 ## Casal2 User and Developer Support Forums
 

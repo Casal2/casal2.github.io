@@ -59,11 +59,11 @@ Include details about the contracted milestones, objectives, and deliverables th
 The first part of each line of the commit message should indicate the type of modification:
 
 - ADD - Added a new file
-- CHG - Modified an existing file
+- UPD - Modified an existing file
 - DEL - Removed an existing file
 - FIX - Fixed something
 
-NOTE: commits pertaining to a specific issue should include `Ref #[issue number]` in the commit message
+NOTE: commits pertaining to a specific issue should include `Ref issue #[issue number]` in the commit message
 
 ## Code review
 
@@ -73,7 +73,7 @@ The code review will include:
 
 - a review of the GitHub issue describing and discussing the bug or enhancement request and its requirements;
 - a check that `doBuild release`, `doBuild release [optimizer]`, `doBuild rlibrary`, and `doBuild documentation` all complete successfully;
-- a check that `doBuild test`, `doBuild modelrunner`, and system tests complete successfully;
+- a check that `doBuild test`, unit tests, `doBuild modelrunner`, and system tests complete successfully;
 - a review of any changes to the Casal2 User Manual and/or other project documentation;
 - a review of any new or revisions to existing unit tests and their supporting information (e.g., the R or Python 3 files used to produce the values in the unit test(s), which should also be committed to the git repository); also discuss test coverage and whether additional unit tests should be added;
 - a review of the doxygen comments in the C++ or roxygen comments in the R source code;
@@ -84,4 +84,11 @@ Code reviews will be coordinated with the Casal2 Development Team.
 
 After the pull request has been applied, the Casal2 Development Team will check that the CI/CD jobs completed successfully.
 
+Note: as well as using the above style guides, development with the C++ source code in the Casal2 repository should also have these style characteristics:
+
+- use two-space indentation (with spaces, not tabs);
+- use spaces on both sides of equal signs;
+- use a space after a comma;
+- include comments within functions and classes; and
+- include doxygen information for each function
 
