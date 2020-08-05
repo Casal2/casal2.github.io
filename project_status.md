@@ -6,7 +6,7 @@ permalink: /project_status/
 
 # Casal2 Project Status
 
-## Planned work for financial year 2020/2021
+## Planned work for July 2020 through June 2021
 
 Planned work includes:
 
@@ -15,7 +15,7 @@ Planned work includes:
 - evaluate third-party MCMC algorithms; and
 - develop training materials
 
-## In-work for financial year 2020/2021
+## In-work for July 2020 through June 2021
 
 Work in progress includes:
 
@@ -24,7 +24,7 @@ Work in progress includes:
 - reviewing the R package; and
 - more review and testing of the retained/discarded catch functionality
 
-## Planned work for financial year 2019/2020
+## Planned work for July 2019 through June 2020
 
 Planned work included:
 
@@ -39,7 +39,7 @@ Planned work included:
 - review and update the R package; and
 - create versioned docker images for reproducibility
 
-## In-work for financial year 2019/2020
+## In-work for July 2019 through June 2020
 
 Work in progress included:
 
