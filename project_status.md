@@ -20,6 +20,7 @@ Planned work includes:
 Work in progress includes:
 
 - testing and validating with simulated data;
+- extracting the Hessian from CppAD minimisation;
 - reviewing and editing the User Manual;
 - reviewing the R package; and
 - more review and testing of the retained/discarded catch functionality
