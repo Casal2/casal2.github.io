@@ -6,16 +6,23 @@ permalink: /project_status/
 
 # Casal2 Project Status
 
-## Planned work for July 2020 through June 2021
+## Planned work for July 2020 to June 2021
 
-Planned work includes:
+A list of planned work is currently being put together and may include the following:
 
+- review and refine project management framework;
+- evaluate collaboration and project communication tools - is Casal2 accessible?;
+- initiate Casal2 Advisory Group;
 - review and test the tagging functionality;
+- review Casal2 efficiency with respect to code optimisation and memory usage;
 - design, document, and implement options that are available in CASAL (e.g., selectivity functions, stock-recruitment relationships);
+- desing, document, and implement q-ratios and weight frequencies functionality
+- review the design of the existing length based functionality and prioritise development;
+- review unit tests (coverage and efficacy) and document best practice; 
 - evaluate third-party MCMC algorithms; and
 - develop training materials
 
-## In-work for July 2020 through June 2021
+## In-work for July 2020 to June 2021
 
 Work in progress includes:
 
@@ -25,7 +32,7 @@ Work in progress includes:
 - reviewing the R package; and
 - more review and testing of the retained/discarded catch functionality
 
-## Planned work for July 2019 through June 2020
+## Planned work for July 2019 to June 2020
 
 Planned work included:
 
@@ -40,10 +47,5 @@ Planned work included:
 - review and update the R package; and
 - create versioned docker images for reproducibility
 
-## In-work for July 2019 through June 2020
 
-Work in progress included:
-
-- review and edit the User Manual; and
-- testing and validating with simulated data
 
