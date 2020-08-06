@@ -18,7 +18,7 @@ The executables in this release have known efficiency issues and require a revie
 
 The documentation in this release is not complete.
 
-The simulation mode has not been reviewed or tested.
+The simulation functionality has not been reviewed or tested.
 
 Casal2 does not output the covariance matrix from CppAD minimisation.
 
