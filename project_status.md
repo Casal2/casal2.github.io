@@ -5,9 +5,9 @@ permalink: /project_status/
 ---
 
 # Casal2 Project Status
-(last updated:6 Aug 2020)
 
 ## Planned work for July 2020 to June 2021
+(last updated: 6 Aug 2020)
 
 A list of planned work is currently being put together and may include the following:
 
@@ -24,7 +24,7 @@ A list of planned work is currently being put together and may include the follo
 - develop training materials.
 
 ## In-work for July 2020 to June 2021
-(last updated:6 Aug 2020)
+(last updated: 6 Aug 2020)
 
 Work in progress includes:
 
@@ -35,7 +35,7 @@ Work in progress includes:
 - more review and testing of the retained/discarded catch functionality.
 
 ## Planned work for July 2019 to June 2020
-(last updated:6 Aug 2020)
+(last updated: 6 Aug 2020)
 
 Planned work included:
 
