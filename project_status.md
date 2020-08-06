@@ -38,10 +38,10 @@ Planned work included:
 
 - design and develop the project management framework for enabling collaboration and ongoing maintenance and support;
 - set up project hosting and CI/CD on NIWA-managed resources;
-- determine project status including reviewing history of Casal2 development,and reviewing all available documentation;
+- determine project status including reviewing history of Casal2 development, and reviewing all available documentation;
 - determine project state including reviewing source code and issues in the repository;
 - enable user and developer engagement;
-- identify and document a tractable (resource limited) set of useful (common to multiple age-based assessments of NZ deepwater stocks) functionality required in Casal2 V1.0
+- identify and document a tractable set of useful (common to multiple age-based assessments of NZ deepwater stocks) functionality required in Casal2 V1.0;
 - develop and construct a set of Test Cases models in CASAL and Casal2 that include commonly used options for NZ deepwater stock assessments;
 - document, test, and validate the functionality used for the Test Cases;
 - review the MCMC functionality;
