@@ -28,7 +28,7 @@ A list of planned work is currently being put together and may include the follo
 
 Work in progress includes:
 
-- testing and validating with simulated data;
+- testing and validating with simulated data, e.g., the simulated data from the [NOAA Fisheries Stock Assessment Model Comparison Project](https://github.com/Bai-Li-NOAA/Stock-Assessment-Model-Comparison-Project);
 - extracting the Hessian from CppAD minimisation;
 - reviewing and editing the User Manual;
 - reviewing the R package; and
