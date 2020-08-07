@@ -22,3 +22,5 @@ The simulation functionality has not been reviewed or tested.
 
 Casal2 does not output the covariance matrix from CppAD minimisation.
 
+The CASAL and Casal2 R packages have been tested with R versions 3.6.X only.
+
