@@ -6,7 +6,7 @@ permalink: /release_notes/
 
 # Casal2 Release Notes
 
-## Version 1.0.0, released 2020-MM-YY
+## Version 1.0.0, released 2020-08-07
 
 This release tests and validates the functionality used in the Casal2 [Test Cases](https://github.com/NIWAFisheriesModelling/Casal2/tree/master/TestCases/primary). The Test Cases are 6 sets of age-based stock assessment models (labeled `BCO`, `HAK`, `HOK`, `LIN`, `ORH`, and `SBW`) that were constructed to include a [commonly used subset](https://github.com/NIWAFisheriesModelling/CASAL2/blob/master/Documentation/Test_cases_and_functional_requirements_for_Casal2_v1.0.pdf) of the existing functionality.
 
