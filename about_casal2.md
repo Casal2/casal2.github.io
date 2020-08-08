@@ -1,6 +1,6 @@
 ---
 #layout: home
-title: Casal2 Release Notes
+title: About Casal2
 permalink: /about_casal2/
 ---
 
