@@ -14,7 +14,7 @@ Casal2 release packages are available in the[Casal2 GitHub repository](https://g
 
 The [Casal2 release notes](https://casal2.github.io/release_notes.md)
 
-The [Casal2project status](https://casal2.github.io/project_status.md)
+The [Casal2 project status](https://casal2.github.io/project_status.md)
 
 ### Casal2 User and Developer Support Forums
 
@@ -28,7 +28,7 @@ The [Casal2 contributor guidelines](https://casal2.github.io/contributing.md)
 
 The NIWA Casal2 Development Team are Kath Large, Teresa A'mar, Ian Doonan, and Matt Dunn.
 
-The CASAL2 project was started by Alistair Dunn. The software architect is Scott Rasmussen.
+The Casal2 project was started by Alistair Dunn. The software architect is Scott Rasmussen.
 
 Contributors to Casal2 development include Scott Rasmussen, Alistair Dunn, Ian Doonan, Craig Marsh, Teresa A’mar, Kath Large, Sophie Mormede, Matt Dunn, and Samik Datta.
 
