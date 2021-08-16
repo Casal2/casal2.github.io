@@ -6,7 +6,7 @@ permalink: /casal/
 
 # CASAL
 
-[CASAL](https://niwa.co.nz/fisheries/tools-resources/casal) is the predecessor of Casal2. It is used for quantitative stock assessments assessments for many of New Zealand's fish stocks, including deepwater (e.g., orange roughy), middle depth (e.g., hoki), inshore (e.g., snapper), and shellfish fisheries. Internationally, it has been used to assess Patagonian and Antarctic toothfish, and broadbill swordfish fisheries.
+[CASAL](https://niwa.co.nz/fisheries/tools-resources/casal) is the predecessor of Casal2. It is used for quantitative stock assessments for many of New Zealand's fish stocks, including deepwater (e.g., orange roughy), middle depth (e.g., hoki), inshore (e.g., snapper), and shellfish fisheries. Internationally, it has been used to assess Patagonian and Antarctic toothfish, and broadbill swordfish fisheries.
 
 ## CASAL User Support Forums
 
