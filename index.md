@@ -21,6 +21,10 @@ The [Casal2 release notes](https://casal2.github.io/release_notes)
 
 The [Casal2 project status](https://casal2.github.io/project_status)
 
+## CASAL files for Windows and Linux
+
+Files for [CASAL](https://casal2.github.io/casal), the predecessor of Casal2
+
 ## Casal2 User and Developer Support Forums
 
 The Casal2 user and developer support forums are available on the [Casal2 Discourse site](https://casal2.discourse.group).
