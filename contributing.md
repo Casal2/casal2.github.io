@@ -6,7 +6,7 @@ permalink: /contributing/
 
 # Casal2 Contributor Guidelines
 
-## Start with the documents, create GitHub issue(s), then work in git branches
+## Start a discussion topic on the [Casal2 Discourse site](https://casal2.discourse.group), write the documents, create GitHub issue(s), then work in git branches
 
 All work in the NIWA Casal2 GitHub repository will be coordinated by the Casal2 Development Team and tracked using GitHub issues. Supporting documents can be attached to these issues. The changes will be managed in branches and integrated in pull requests.
 
