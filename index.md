@@ -15,6 +15,8 @@ The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct)
 
 ## Casal2 releases for Windows and Linux
 
+The [Casal2 User Manual](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/UserManual/CASAL2.pdf)
+
 The Casal2 installation packages are available in the [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
 
 The [Casal2 release notes](https://casal2.github.io/release_notes)
@@ -34,6 +36,8 @@ The Casal2 user and developer support forums are available on the [Casal2 Discou
 The [Casal2 contributor guidelines](https://casal2.github.io/contributing)
 
 ### About Casal2
+
+[Casal2 journal article](https://doi.org/10.1016/j.fishres.2016.04.024)
 
 The Casal2 software implements a generalised age-structured population model that allows for a great deal of choice in specifying the population dynamics, parameter estimation, and model outputs. Casal2 is designed for flexibility. It can implement an age-structured model for a single population or multiple populations using user-defined categories such as area, sex, and maturity. These structural elements are generic and not predefined, and are easily constructed. Casal2 models can be used for a single population with a single anthropogenic event (in a fish population model this would be a single fishery), or for multiple species and populations, areas, and/or anthropogenic or exploitation methods, and including predator-prey interactions.
 

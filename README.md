@@ -10,6 +10,8 @@ The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct.md)
 
 ### Casal2 releases for Windows and Linux
 
+The [Casal2 User Manual](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/UserManual/CASAL2.pdf)
+
 Casal2 release packages are available in the[Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
 
 The [Casal2 release notes](https://casal2.github.io/release_notes.md)
@@ -26,7 +28,7 @@ The [Casal2 contributor guidelines](https://casal2.github.io/contributing.md)
 
 ### Casal2 Contributors
 
-The NIWA Casal2 Development Team are Kath Large, Teresa A'mar, Ian Doonan, and Matt Dunn.
+The NIWA Casal2 Development Team are Craig Marsh, Teresa A'mar, Ian Doonan, Matt Dunn, and Steven Holmes.
 
 The Casal2 project was started by Alistair Dunn. The software architect is Scott Rasmussen.
 
