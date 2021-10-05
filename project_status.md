@@ -6,10 +6,24 @@ permalink: /project_status/
 
 # Casal2 Project Status
 
+## Planned work for July 2021 to June 2022
+(last updated: 5 Oct 2021)
+
+A list of planned work is being put together and may include the following:
+
+- review efficiency with respect to code optimisation and memory usage;
+- design, document, and implement options that are available in CASAL (e.g., selectivity functions, stock-recruitment relationships);
+- design, document, and implement q-ratios functionality;
+- review and edit the User Manual;
+- review and update the R package; and
+- develop training materials.
+
+A Casal2 workshop was held online on 5 October 2021. This workshop described the project status and recent work and provided information on planned work.
+
 ## Planned work for July 2020 to June 2021
 (last updated: 6 Aug 2020)
 
-A list of planned work is currently being put together and may include the following:
+A list of planned work is being put together and may include the following:
 
 - review and refine project management framework;
 - evaluate collaboration and project communication tools (i.e., is Casal2 accessible?);
