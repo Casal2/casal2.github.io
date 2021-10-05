@@ -72,7 +72,7 @@ The Casal2 project uses the [Google C++ Style Guide](https://google.github.io/st
 The code review will include:
 
 - a review of the GitHub issue describing and discussing the bug or enhancement request and its requirements;
-- a check that `doBuild library release`, `doBuild library [optimizer]`, `doBuild library test`, `doBuild frontend`, `doBuild rlibrary`, and `doBuild archive` all complete successfully;
+- a check that `doBuild library release`, `doBuild library [optimizer]`, `doBuild library test`, `doBuild frontend`, `doBuild rlibrary`, and `doBuild archive true` all complete successfully;
 - a check that the unit tests, `doBuild modelrunner`, and other system tests complete successfully;
 - a review of any changes to the Casal2 User Manual and/or other project documentation;
 - a review of any new or revisions to existing unit tests and their supporting information (e.g., the R or Python code used to produce the values in the unit test(s); this code should added as a section of comments for each test in the unit test file(s)); also discuss test coverage and whether additional unit tests should be added;
