@@ -18,7 +18,7 @@ A list of planned work is being put together and may include the following:
 - review and update the R package; and
 - develop training materials.
 
-A Casal2 workshop was held online on 5 October 2021. This workshop described the project status and recent work and provided information on planned work.
+A [Casal2 workshop](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/Presentations/Casal2_intro_slides.2021-10-05.pdf) was held online on 5 October 2021. This workshop described the project status and recent work and provided information on planned work.
 
 ## Planned work for July 2020 to June 2021
 (last updated: 6 Aug 2020)
