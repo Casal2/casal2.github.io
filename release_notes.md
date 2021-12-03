@@ -12,7 +12,7 @@ Craig Marsh, Scott Rasmussen, and Alistair Dunn have made extensive changes, add
 
 This release also updates the MPD reports for the Casal2 [Test Cases](https://github.com/NIWAFisheriesModelling/CASAL2/tree/proportions_at_weight_202101/TestCases/primary). The Test Cases are 6 sets of age-based stock assessment models (labeled `BCO`, `HAK`, `HOK`, `LIN`, `ORH`, and `SBW`) that were constructed to include a [commonly used subset](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/Test_cases_and_functional_requirements_for_Casal2_v1.0.pdf) of the existing functionality. The functionality for the MCMC mode and the projection mode is being validated with the Test Cases.
 
-The Windows installation package for CASAL and the executables for Windows and Linux are in the [TestCases/CASAL subdirectory](https://github.com/NIWAFisheriesModelling/CASAL2/tree/proportions_at_weight_202101/TestCases/CASAL).
+The Windows installation package for CASAL and the executables for Windows and Linux are in the [TestCases/CASAL subdirectory](https://github.com/NIWAFisheriesModelling/CASAL2/tree/master/TestCases/CASAL).
 
 ### Known issues
 
