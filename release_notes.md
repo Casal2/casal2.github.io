@@ -6,11 +6,15 @@ permalink: /release_notes/
 
 # Casal2 Release Notes
 
+The most recent production version of Casal2 is available [here](https://github.com/NIWAFisheriesModelling/CASAL2/releases/tag/v21.11). The production version has been checked by comparing the 6 sets of Test Case MPD and MCMC results with CASAL and generating Test Case reports. We anticipate production versions being released once or twice a year, with validation of new key functionality and fixes.
+
+The most recent development version of Casal2 is available [here](https://github.com/NIWAFisheriesModelling/CASAL2/releases/tag/dev.202202). The development version may include updates to the Test Cases reports, and may not have undergone the same level of testing as the production versions. The development versions will made available more frequently than the production versions, as fixes and other updates are made between production releases.
+
 ## Version 21.11, released 2021-12-03
 
 Craig Marsh, Scott Rasmussen, and Alistair Dunn have made extensive changes, additions, and efficiency improvements over the past few months. The main user-facing changes are that tag-release by length and tag-recapture by length have been reviewed and tested, as has time-varying growth.
 
-This release also updates the MPD reports for the Casal2 [Test Cases](https://github.com/NIWAFisheriesModelling/CASAL2/tree/master/TestCases/primary). The Test Cases are 6 sets of age-based stock assessment models (labeled `BCO`, `HAK`, `HOK`, `LIN`, `ORH`, and `SBW`) that were constructed to include a [commonly used subset](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/Test_cases_and_functional_requirements_for_Casal2_v1.0.pdf) of the existing functionality. The functionality for the MCMC mode and the projection mode is being validated with the Test Cases.
+This release also updates the MPD reports for the Casal2 [Test Cases](https://github.com/NIWAFisheriesModelling/CASAL2/tree/master/TestCases/primary). The Test Cases are 6 sets of age-based stock assessment models (labeled `BCO`, `HAK`, `HOK`, `LIN`, `ORH`, and `SBW`) that were constructed to validate a [commonly used subset](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/Test_cases_and_functional_requirements_for_Casal2_v1.0.pdf) of the existing functionality. The functionality for the MCMC mode and the projection mode is being validated with the Test Cases.
 
 The simulation functionality has been reviewed and tested.
 
