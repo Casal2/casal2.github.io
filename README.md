@@ -10,9 +10,10 @@ The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct.md)
 
 ### Casal2 releases for Windows and Linux
 
-The [Casal2 User Manual](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/UserManual/CASAL2.pdf)
+The [Casal2 Age-based User Manual](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/UserManual/CASAL2_Age.pdf)
+The [Casal2 Length-based User Manual](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/UserManual/CASAL2_Length.pdf)
 
-Casal2 release packages are available in the[Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
+Casal2 release packages are available in the [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
 
 The [Casal2 release notes](https://casal2.github.io/release_notes.md)
 
