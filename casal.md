@@ -17,16 +17,26 @@ Please post questions about and issues with CASAL on the [Casal2 Discourse site]
 [CASAL User Manual for version 2.30](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casalv230-2012-03-21.pdf)
 
 Executable files
-- [Windows executable for version 2.31](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal.exe)
-- [Linux executable for version 2.31](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal)
+- [Windows executable for version 2.33](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal.Rtools42.MinGW.exe)
+- [Linux executable for version 2.33](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal)
 
 Windows files
 - [Windows installation package for version 2.30](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/Setup_CASAL.exe)
 - [Windows zip file for version 2.30](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/CASALv230-2012-03-21.zip)
+- [Windows zip file for version 2.33](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/CASALv233-2022-08-04.zip)
 
-CASAL R packages (for use with R versions 3.6.X and older only)
+CASAL R packages
 - [CASAL R package for Windows](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal_2.30.zip)
 - [CASAL R package for Linux](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal_2.30.tar.gz)
+
+## CASAL version 2.33 was released on 2022-08-05
+
+The CASAL executables for Windows and Linux includes bug fixes for:
+- an issue with disease mortality being applied in the wrong timestep(s) (Craig Marsh)
+
+In addition, CASAL versions 2.32 and newer have a new selectivity ogive, 'double_normal_stock_synthesis'. The CASAL ogive has 9 parameters, 6 that match the [Stock Synthesis 3](https://vlab.noaa.gov/web/stock-synthesis) implementation, and 3 additional parameters for the minimum bin value ("min_x_val", for age or size), the maximum bin value ("max_x_val", for age or size), and the bin width ("bin_width", which is usually 1 for age-based models). The latter 3 parameters should have the lower and upper bounds set to the parameter values so that they are not estimated.
+
+NOTE: the CASAL manual has had no changes since version 2.30 released in 2012.
 
 ## CASAL version 2.31 was released on 2021-08-11
 
