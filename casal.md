@@ -14,20 +14,20 @@ Please post questions about and issues with CASAL on the [Casal2 Discourse site]
 
 ## CASAL files for Windows and Linux
 
-[CASAL User Manual for version 2.30](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casalv230-2012-03-21.pdf)
+[CASAL User Manual for version 2.30](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/casalv230-2012-03-21.pdf)
 
 Executable files
-- [Windows executable for version 2.33](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal.Rtools42.MinGW.exe)
-- [Linux executable for version 2.33](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal)
+- [Windows executable for version 2.33](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/casal.Rtools42.MinGW.exe)
+- [Linux executable for version 2.33](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/casal)
 
 Windows files
-- [Windows installation package for version 2.30](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/Setup_CASAL.exe)
-- [Windows zip file for version 2.30](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/CASALv230-2012-03-21.zip)
-- [Windows zip file for version 2.33](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/CASALv233-2022-08-04.zip)
+- [Windows installation package for version 2.30](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/Setup_CASAL.exe)
+- [Windows zip file for version 2.30](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/CASALv230-2012-03-21.zip)
+- [Windows zip file for version 2.33](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/CASALv233-2022-08-04.zip)
 
 CASAL R packages
-- [CASAL R package for Windows](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal_2.30.zip)
-- [CASAL R package for Linux](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/TestCases/CASAL/casal_2.30.tar.gz)
+- [CASAL R package for Windows](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/R-functions/casal_2.30.zip)
+- [CASAL R package for Linux](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/R-functions/casal_2.30.tar.gz)
 
 ## CASAL version 2.33 was released on 2022-08-05
 

@@ -14,6 +14,8 @@ The most recent development version of Casal2 is available [here](https://github
 
 Craig Marsh has made extensive changes, additions, and efficiency improvements over the past few months. The main user-facing changes include length-based model functionality, changes to how year class strength (YCS) is defined and used, the generation of simulated observations, additional initialisation types, and the addition of a hybrid fishing mortality process similar to that in [Stock Synthesis 3](https://vlab.noaa.gov/web/stock-synthesis). There is a new length-based Test Case, `SCI`.
 
+There is a new R package in development for post-processing of Casal2 model input and output, [r4Casal2](https://github.com/NIWAFisheriesModelling/r4Casal2).
+
 This release also updates the MPD reports for 7 Casal2 [Test Cases](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/tree/main/TestCases/primary). The Test Cases are now located in a separate repository. The Test Cases are 6 sets of age-based stock assessment models (labeled `BCO`, `HAK`, `HOK`, `LIN`, `ORH`, and `SBW`) and one length-based stock assessment model (labeled `SCI`) that were constructed to validate a [commonly used subset](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/Test_cases_and_functional_requirements_for_Casal2_v1.0.pdf) of the existing functionality. The functionality for the MCMC mode and the projection mode is being validated with the Test Cases.
 
 ### Known issues
