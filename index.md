@@ -15,10 +15,10 @@ The [Casal2 Code of Conduct](https://casal2.github.io/code_of_conduct)
 
 ## Casal2 releases for Windows and Linux
 
-The [Casal2 Age-based User Manual](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/UserManual/CASAL2_Age.pdf)
-The [Casal2 Length-based User Manual](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/UserManual/CASAL2_Length.pdf)
+The [Casal2 Age-based User Manual](https://github.com/Casal2/CASAL2/raw/master/Documentation/UserManual/CASAL2_Age.pdf)
+The [Casal2 Length-based User Manual](https://github.com/Casal2/CASAL2/raw/master/Documentation/UserManual/CASAL2_Length.pdf)
 
-The Casal2 production and development release packages are available in the [Casal2 GitHub repository](https://github.com/NIWAFisheriesModelling/CASAL2/releases).
+The Casal2 production and development release packages are available in the [Casal2 GitHub repository](https://github.com/Casal2/CASAL2/releases).
 
 The [Casal2 release notes](https://casal2.github.io/release_notes)
 
@@ -30,7 +30,7 @@ Files for [CASAL](https://casal2.github.io/casal), the predecessor of Casal2
 
 ## Casal2 User and Developer Support Forums
 
-The Casal2 user and developer support forums are available on the [Casal2 Discourse site](https://casal2.discourse.group).
+The Casal2 user and developer support are available on [Slack](https://join.slack.com/t/casal2workspace/shared_invite/zt-2ko29a60h-jJpdINxi4OSb~tVNe0nRrQ).
 
 ## Casal2 Contributor Guidelines
 

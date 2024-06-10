@@ -8,26 +8,22 @@ permalink: /casal/
 
 [CASAL](https://niwa.co.nz/fisheries/tools-resources/casal) is the predecessor of Casal2. It is used for quantitative stock assessments for many of New Zealand's fish stocks, including deepwater (e.g., orange roughy), middle depth (e.g., hoki), inshore (e.g., snapper), and shellfish fisheries. Internationally, it has been used to assess Patagonian and Antarctic toothfish, and broadbill swordfish fisheries.
 
-## CASAL User Support Forums
+## CASAL User Support and Community Forums
 
-Please post questions about and issues with CASAL on the [Casal2 Discourse site](https://casal2.discourse.group).
+Please post questions about and issues with CASAL on [Slack](https://join.slack.com/t/casal2workspace/shared_invite/zt-2ko29a60h-jJpdINxi4OSb~tVNe0nRrQ).
 
 ## CASAL files for Windows and Linux
 
-[CASAL User Manual for version 2.30](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/casalv230-2012-03-21.pdf)
+The latest version of Casal2 can be downloaded from Github [here](https://github.com/Casal2/CASAL2/releases).
 
-Executable files
-- [Windows executable for version 2.33](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/casal.Rtools42.MinGW.exe)
-- [Linux executable for version 2.33](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/casal)
+## CASAL2 version 2024.06
 
-Windows files
-- [Windows installation package for version 2.30](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/Setup_CASAL.exe)
-- [Windows zip file for version 2.30](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/CASALv230-2012-03-21.zip)
-- [Windows zip file for version 2.33](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/CASAL/CASALv233-2022-08-04.zip)
-
-CASAL R packages
-- [CASAL R package for Windows](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/R-functions/casal_2.30.zip)
-- [CASAL R package for Linux](https://github.com/NIWAFisheriesModelling/Casal2-supporting-information/raw/main/TestCases/R-functions/casal_2.30.tar.gz)
+CASAL2 received a bunch of code cleanup, minor fixes and updates.
+- Added sqrt transformations to manual
+- Added mortality constant exploitation process
+- Implemented double tag loss
+- Added disease mortaloty as an age model process
+- Added constant difference parameter transformation
 
 ## CASAL version 2.33 was released on 2022-08-05
 

@@ -6,9 +6,16 @@ permalink: /release_notes/
 
 # Casal2 Release Notes
 
-The most recent production version of Casal2 is available [here](https://github.com/NIWAFisheriesModelling/CASAL2/releases/tag/v22.08). The production version has been checked by comparing the 7 sets of Test Case MPD and MCMC results with CASAL and generating Test Case reports. We anticipate production versions being released once or twice a year, with validation of new key functionality and fixes.
+The latest version of Casal2 can be downloaded from Github [here](https://github.com/Casal2/CASAL2/releases).
 
-The most recent development version of Casal2 is available [here](https://github.com/NIWAFisheriesModelling/CASAL2/releases/tag/dev.2207). The development version may include updates to the Test Cases reports, and may not have undergone the same level of testing as the production versions. The development versions will made available more frequently than the production versions, as fixes and other updates are made between production releases.
+## CASAL2 version 2024.06
+
+CASAL2 received a bunch of code cleanup, minor fixes and updates.
+- Added sqrt transformations to manual
+- Added mortality constant exploitation process
+- Implemented double tag loss
+- Added disease mortaloty as an age model process
+- Added constant difference parameter transformation
 
 ## Version 22.08, released 2022-08-31
 

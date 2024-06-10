@@ -6,9 +6,9 @@ permalink: /contributing/
 
 # Casal2 Contributor Guidelines
 
-## Start a discussion topic on the [Casal2 Discourse site](https://casal2.discourse.group), write the documents, create GitHub issue(s), then work in git branches
+## Start a discussion topic on the [Slack](https://join.slack.com/t/casal2workspace/shared_invite/zt-2ko29a60h-jJpdINxi4OSb~tVNe0nRrQ), write the documents, create GitHub issue(s), then work in git branches
 
-All work in the NIWA Casal2 GitHub repository will be coordinated by the Casal2 Development Team and tracked using GitHub issues. Supporting documents can be attached to these issues. The changes will be managed in branches and integrated in pull requests.
+All work in the Casal2 GitHub repository will be coordinated by the Casal2 Development Team and tracked using GitHub issues. Supporting documents can be attached to these issues. The changes will be managed in branches and integrated in pull requests.
 
 The required documents include:
 
@@ -16,13 +16,13 @@ The required documents include:
 - A detailed test plan for validation and verification, including test case input and output files; and
 - Any revisions to the Casal2 User Manual and/or other project documentation
 
-Please provide documents in LaTeX format.
+Please provide documents in LaTeX or Markdown format.
 
 All contributions to the Casal2 project are made via Pull Requests against the *master* branch. Non-trivial developments must be discussed and agreed to **in advance** in a GitHub issue.
 
 ### Reporting bugs
 
-Report bugs by opening an issue in the [GitHub repository](https://github.com/NIWAFisheriesModelling/Casal2/issues).
+Report bugs by opening an issue in the [GitHub repository](https://github.com/Casal2/Casal2/issues).
 
 For source code bugs: provide a description of the bug(s), the filename(s) for the code that has the bug(s), and the initial steps that will be taken to fix the bug(s).
 

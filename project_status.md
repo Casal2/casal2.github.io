@@ -6,6 +6,9 @@ permalink: /project_status/
 
 # Casal2 Project Status
 
+## Current Status
+Casal2 has issued a release in June 2024 (2024.06). The project is currently seeking further funding to develop new features and maintain the project.
+
 ## Planned work for July 2021 to June 2022
 (last updated: 5 Oct 2021)
 
@@ -18,7 +21,7 @@ A list of planned work is being put together and may include the following:
 - review and update the R package; and
 - develop training materials.
 
-A [Casal2 workshop](https://github.com/NIWAFisheriesModelling/CASAL2/raw/master/Documentation/Presentations/Casal2_intro_slides.2021-10-05.pdf) was held online on 5 October 2021. This workshop described the project status and recent work and provided information on planned work.
+A [Casal2 workshop](https://github.com/Casal2/CASAL2/raw/master/Documentation/Presentations/Casal2_intro_slides.2021-10-05.pdf) was held online on 5 October 2021. This workshop described the project status and recent work and provided information on planned work.
 
 ## Planned work for July 2020 to June 2021
 (last updated: 6 Aug 2020)
