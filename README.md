@@ -29,7 +29,7 @@ The [Casal2 contributor guidelines](https://casal2.github.io/contributing.md)
 
 ### Casal2 Contributors
 
-The Casal2 project was started by Alistair Dunn. The software architect is [Scott Rasmussen)(https://github.com/zaita).
+The Casal2 project was started by Alistair Dunn. The software architect is [Scott Rasmussen](https://github.com/zaita).
 
 Casal2 was updated and maintained by the NIWA Casal2 Development Team: Craig Marsh, Teresa A'mar, Ian Doonan, Matt Dunn, and Steven Holmes.
 
