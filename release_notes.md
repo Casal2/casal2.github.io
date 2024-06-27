@@ -16,6 +16,15 @@ CASAL2 received a bunch of code cleanup, minor fixes and updates.
 - Implemented double tag loss
 - Added disease mortaloty as an age model process
 - Added constant difference parameter transformation
+- The user manual has been updated for both Age and Length variants.
+- A large number of basic code improvements, error handling and user messages have been updated.
+- Building Casal2 and associated documentation has been fixed.
+- GitHub Actions have been fixed.
+- A new writing your first model tutorial is now available at: https://casal2.readthedocs.io/en/latest/
+- Contributor guides, github.io pages etc have all been updated.
+- README has been updated.
+- Broken unit tests and builds on various Linux platforms and compilers have been fixed.
+- Casal2 now supports multiple input configuration files with the -c command like argument
 
 ## Version 22.08, released 2022-08-31
 
