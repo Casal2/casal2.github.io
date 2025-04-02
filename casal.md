@@ -6,7 +6,11 @@ permalink: /casal/
 
 # CASAL
 
-[CASAL](https://niwa.co.nz/fisheries/tools-resources/casal) is the predecessor of Casal2. It is used for quantitative stock assessments for many of New Zealand's fish stocks, including deepwater (e.g., orange roughy), middle depth (e.g., hoki), inshore (e.g., snapper), and shellfish fisheries. Internationally, it has been used to assess Patagonian and Antarctic toothfish, and broadbill swordfish fisheries.
+Casal2 is a next generation open-source integrated assessment tool for modelling the population dynamics of marine species, including fishery stock assessments. Casal2 expands functionality and increases maintainability relative to its predecessor, [CASAL](https://niwa.co.nz/fisheries/tools-resources/casal). Casal2 can be used for quantitative assessments of marine populations, including fish, invertebrates, marine mammals, and seabirds.
+
+Casal2 is supported by Fisheries New Zealand, NIWA, Ocean Environmental Limited and Scott Rasmussen (Zaita) through the Casal2 Steering Group.
+
+The Casal2 Development Team welcomes your contributions and feedback. Information about the use and development of Casal2 is available below.
 
 ## CASAL User Support and Community Forums
 
